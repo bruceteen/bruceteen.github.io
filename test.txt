@@ -1,0 +1,27 @@
+
+
+* C/C++函数查询
+[http://en.cppreference.com/](http://en.cppreference.com/)
+[http://www.cplusplus.com/reference/](http://www.cplusplus.com/reference/)
+C语言操作符优先级：[http://en.cppreference.com/w/c/language/operator_precedence](http://en.cppreference.com/w/c/language/operator_precedence)
+C++操作符优先级：[http://en.cppreference.com/w/cpp/language/operator_precedence](http://en.cppreference.com/w/cpp/language/operator_precedence)
+
+* MSDN 在线
+[https://msdn.microsoft.com/en-us/library/](https://msdn.microsoft.com/en-us/library/)
+
+* MinGW-w64 下载
+http://mingw-w64.org
+[https://sourceforge.net/projects/mingw-w64/](https://sourceforge.net/projects/mingw-w64/)
+
+* MinGW 下载
+http://mingw.org/
+[https://sourceforge.net/downloads/mingw](https://sourceforge.net/downloads/mingw)
+
+* Qt Creator
+[https://www.qt.io/download-open-source/](https://www.qt.io/download-open-source/)
+
+* CodeLite
+[http://downloads.codelite.org/](http://downloads.codelite.org/)
+
+* Windows下载
+[http://www.itellyou.cn/ ](http://www.itellyou.cn/ )
